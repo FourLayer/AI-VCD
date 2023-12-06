@@ -1,14 +1,19 @@
 # AI-VCD
 AI-Voice Cloning Detection System 
 
+
 [DATASET]
 train
 ai : TTS, Voice Cloning
+
 human : human voice
+
 
 test
 ai : Voice Cloning
+
 human : human voice
+
 
 model_fin.ipynb : Conv1D Model Training
 
