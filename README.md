@@ -18,3 +18,4 @@ pred_test.ipynb : Third-Party Prediction (Voice Cloning)
 [System Algorism]
 ![image](https://github.com/FourLayer/AI-VCD/assets/132183887/60f97041-d143-45e8-b74f-8db1ff71d827)
 
+![캡처-removebg-preview (1)](https://github.com/FourLayer/AI-VCD/assets/132183887/a2b4c6e0-e5e1-4c5a-ae84-9a25c765b0b7)
